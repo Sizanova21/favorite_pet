@@ -4,6 +4,8 @@
  Порода Кавалер Кинг Чарльз Спаниель.
 
  ![](https://github.com/Sizanova21/favorite_pet/blob/main/img/%D0%A7%D0%B0%D1%80%D0%BB%D0%B8%D0%BA.jpg)
+ ![](/img/красавчик%20Чарли.jpg)
+ ![](img/милаш.jpg)
 
 *Достоинства:*
 
